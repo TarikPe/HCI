@@ -1,3 +1,71 @@
 Analyse von Konkurrenz Produkten & der bisherigen Applikation (falls zutreffend):
 Recherchieren sie, ob es ähnliche Systeme gibt und analysieren diese. Wie sind diese Systeme zu ihrer Idee verwandt? Worin sehen sie die wesentlichen Vor- und Nachteile der Konkurrenzprodukte? Identifizieren sie potentielle Usability-Probleme dieser Systeme, sowie Usability Aspekte, die bereits gut abgedeckt sind.
 Insgesamt sollen 3 Systeme analysiert werden.
+
+Analyse von Konkurrenz Produkten & der bisherigen Applikation
+
+______________________________________________________________________________
+
+Aufgabe:
+
+Recherchieren sie, ob es ähnliche Systeme gibt und analysieren diese. Wie sind diese Systeme zu ihrer Idee verwandt? Worin sehen sie die wesentlichen Vor- und Nachteile der Konkurrenzprodukte? Identifizieren sie potentielle Usability-Probleme dieser Systeme, sowie Usability Aspekte, die bereits gut abgedeckt sind.
+Insgesamt sollen 3 Systeme analysiert werden.
+
+______________________________________________________________________________
+
+Financial Technologie (Fintech) :
+
+
+Die folgenden drei Applikationen wurden analysiert.
+
+Meine Finanzen
+Moneyboard
+Haushaltsbuch Pro 
+
+
+Meine Finanzen Applikation:  
+
+Funktionalität: Die für iPhone und iPad konzipierte Applikation bietet auch Apple-Watch App. Einnahmen und Ausgaben von mehreren Konten können mit Hilfe der App festgehalten werden. Neben zeitgleiche Transaktionen können auch Buchungen einmalig oder wiederkehrend geplant erstellt werden. Durch Kategorien können alle Transaktionen gruppiert werden.  Mit einem 4-stelligen Code oder mit einem TouchID (falls unterstützt) können die Daten gegen Fremdzugriff geschützt werden. 
+
+Im Gratisversion können 20 Buchungen pro Monat festgehalten werden.  Daten können im Gratisversion importiert werden, Statistiken, Datenexport und automatische Backups können jedoch nur bei Erwerb der Vollversion durchgeführt werden.
+
+Usability: 
+
+Die Applikation ist leicht zu bedienen. 
+bietet eine Anleitungsvideo und Hilfe-Dokumentation auf der Homepage
+Support-Email für eventuelle Fragen vorhanden.
+
+keine individuellen Kontenansicht
+
+
+
+Moneyboard: 
+
+Funktionalität: Moneyboard gibt es für iPhone, iPad und iPod touch. Mit der Finanzapplikation können Einnahmen und Ausgaben verwaltet werden. Transaktionen können nach Woche, Monat oder Jahr gefiltert werden.  Für jede Buchung kann auch ein Belegfoto hinterlegt werden. 
+
+Im Rahmen eines Gratisversions  kann nur ein Konto mit unbegrenzten Transaktionen festgehalten werden.  Neue Kategorien und Datenexport ist nur im Vollversion möglich.
+
+Usability:
+
+Konten können mit Profilfoto und Farben individualisiert werden
+Kategorien können mit Symbolbild (icon) veranschaulicht werden
+dynamische Grafiken verstärken die Visualität.
+
+Sprache: Übersetzung in deutsche Sprache teilweise falsch oder nicht vollständig.
+Für das Wort „Ausgabe“ werden auch Auslage und expenses in der Applikation verwendet. 
+Schreibfehler (Edigieren statt Redigieren (Korrektur))
+
+
+Haushaltsbuch Pro: 
+
+Funktionalität: Mit der App gibt es die Möglichkeit ein Haushalt zu erstellen und es mit anderen Nutzern zu teilen, um die Einnahmen und Ausgaben für einen Haushalt gemeinsam zu verwalten. Durch Familien-Synchronisation haben alle Mitglieder des Haushalts Zugriff auf die selben Transaktionen. 
+
+Im Gratisversion können nur 5 Transaktionen pro Tag erstellt werden. Die App gibt es für iPhone, iPad und iPod touch und bietet auch Apple-Watch App.
+
+Usability:
+
+Feedback nach Erstellung einer Transaktion
+dynamische Grafiken
+
+Keine Hilfe-Dokumentation
+
