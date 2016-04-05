@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  4 APR 2016 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  5 APR 2016 21:34
 entering extended mode
-**D:/uni/Goki/HCI/git/trunk/M1/M1GruppeFreitagTeam10.tex
-(D:/uni/Goki/HCI/git/trunk/M1/M1GruppeFreitagTeam10.tex
+**D:/uni/Goki/HCI/m1/M1GruppeFreitagTeam10.tex
+(D:/uni/Goki/HCI/m1/M1GruppeFreitagTeam10.tex
 LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 (llncs.cls
@@ -648,350 +648,343 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-
-Overfull \hbox (14.86314pt too wide) in paragraph at lines 51--52
-\OT1/cmr/m/n/10 Kostengrunden. Viele Men-schen sind an ein-fachen und schnelle
-n Geld- Management-
- []
-
-
-Overfull \hbox (250.58394pt too wide) in paragraph at lines 51--52
-\OT1/cmr/m/n/10 In dem Ar-tikel wur-den auch ver-schiedene Phasen eines Pro-jek
-ts $\OML/cmm/m/it/10 Analyse; VorbereitungeinesProjekts; Entwiklungsprozesusw:$
-\OT1/cmr/m/n/10 behandelt.
- []
-
 [1
 
 
 {C:/Users/peaceful/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (9.76596pt too wide) in paragraph at lines 54--56
-\OT1/cmr/m/n/10 Der Text bein-hal-tet In-for-ma-tio-nen uber Software-Auswahl 
-und wichtige Ratschlage
+Overfull \hbox (0.48819pt too wide) in paragraph at lines 55--57
+\OT1/cmr/m/n/10 fur Be-nutzer. Es in-formiert auch uber Steuer-Vorbereitungsp
+rogramme und Web-
  []
 
 
-Overfull \hbox (10.82153pt too wide) in paragraph at lines 63--64
-\OT1/cmr/m/n/10 128-Bit Ver-schlusselung auf Bankebene oder 256-Bit-Militar-L
-evel-Verschlusselung,
+Overfull \hbox (2.66862pt too wide) in paragraph at lines 55--57
+\OT1/cmr/m/n/10 basierte Geld-ManagementWebseiten. Unser Team hat die Wichtigke
+it der Sicher-
+ []
+
+
+Overfull \hbox (3.7937pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 Eine gultige Be-sorg-nis uber eine personliche Finanz-App is
+t die Sicher-heit. Ehrlich
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
-<meineFinanzen.png, id=14, 511.15968pt x 439.6425pt>
+<meineFinanzen.png, id=13, 511.15968pt x 439.6425pt>
 File: meineFinanzen.png Graphic file (type png)
  <use meineFinanzen.png>
-Package pdftex.def Info: meineFinanzen.png used on input line 88.
+Package pdftex.def Info: meineFinanzen.png used on input line 89.
 (pdftex.def)             Requested size: 227.61743pt x 199.16556pt.
 
 [3
 
  <./meineFinanzen.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
 
-Overfull \hbox (10.50203pt too wide) in paragraph at lines 98--99
+Overfull \hbox (10.50203pt too wide) in paragraph at lines 99--100
 []\OT1/cmr/m/n/10 Im Rah-men eines Gratisver-sions kann nur ein Konto mit un-be
 -gren-zten Transak-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
 
-Overfull \hbox (21.25363pt too wide) in paragraph at lines 102--108
+Overfull \hbox (21.25363pt too wide) in paragraph at lines 103--109
 []\U/pzd/m/n/10 7[] \OT1/cmr/m/n/10 Sprache: []Ubersetzung in deutsche Sprache 
 teil-weise falsch oder nicht vollstandig. 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--108
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
 
  []
 
-<moneyboard.png, id=21, 502.12593pt x 433.62pt>
+<moneyboard.png, id=20, 502.12593pt x 433.62pt>
 File: moneyboard.png Graphic file (type png)
  <use moneyboard.png>
-Package pdftex.def Info: moneyboard.png used on input line 113.
+Package pdftex.def Info: moneyboard.png used on input line 114.
 (pdftex.def)             Requested size: 227.62486pt x 199.16988pt.
  [4
 
  <./moneyboard.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 121--124
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--130
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
 
  []
 
-<haushaltsbuchPro.png, id=26, 499.8675pt x 427.5975pt>
+<haushaltsbuchPro.png, id=25, 499.8675pt x 427.5975pt>
 File: haushaltsbuchPro.png Graphic file (type png)
 
 <use haushaltsbuchPro.png>
-Package pdftex.def Info: haushaltsbuchPro.png used on input line 135.
+Package pdftex.def Info: haushaltsbuchPro.png used on input line 136.
 (pdftex.def)             Requested size: 227.62312pt x 199.17006pt.
  [5
 
  <./haushaltsbuchPro.png>]
-<ubersicht.png, id=31, 752.8125pt x 437.38406pt>
+<ubersicht.png, id=30, 752.8125pt x 437.38406pt>
 File: ubersicht.png Graphic file (type png)
  <use ubersicht.png>
-Package pdftex.def Info: ubersicht.png used on input line 144.
+Package pdftex.def Info: ubersicht.png used on input line 145.
 (pdftex.def)             Requested size: 369.8922pt x 341.43849pt.
 
-Overfull \hbox (22.76866pt too wide) in paragraph at lines 144--145
+Overfull \hbox (22.76866pt too wide) in paragraph at lines 145--146
  [][] 
  []
 
 [6
 
  <./ubersicht.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 152--155
+Underfull \hbox (badness 10000) in paragraph at lines 153--156
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--161
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--165
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--165
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
 [7
 
-] <thomasSteiger.jpg, id=40, 36.135pt x 36.135pt>
+] <thomasSteiger.jpg, id=39, 36.135pt x 36.135pt>
 File: thomasSteiger.jpg Graphic file (type jpg)
  <use thomasSteiger.jpg>
-Package pdftex.def Info: thomasSteiger.jpg used on input line 178.
+Package pdftex.def Info: thomasSteiger.jpg used on input line 179.
 (pdftex.def)             Requested size: 85.36272pt x 85.36272pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--189
+Underfull \hbox (badness 10000) in paragraph at lines 184--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--189
+Underfull \hbox (badness 10000) in paragraph at lines 184--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 183--189
+Underfull \hbox (badness 10000) in paragraph at lines 184--190
 
  []
 
-[8 <./thomasSteiger.jpg>] <juliankuhlberg.jpg, id=45, 198.7425pt x 123.516pt>
+[8 <./thomasSteiger.jpg>] <juliankuhlberg.jpg, id=44, 198.7425pt x 123.516pt>
 File: juliankuhlberg.jpg Graphic file (type jpg)
 
 <use juliankuhlberg.jpg>
-Package pdftex.def Info: juliankuhlberg.jpg used on input line 197.
+Package pdftex.def Info: juliankuhlberg.jpg used on input line 198.
 (pdftex.def)             Requested size: 170.72112pt x 113.80948pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 202--205
+Underfull \hbox (badness 10000) in paragraph at lines 203--206
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--208
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--213
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--213
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--213
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--213
+Underfull \hbox (badness 10000) in paragraph at lines 210--214
 
  []
 
 [9
 
- <./juliankuhlberg.jpg>] <lenabauer.jpg, id=49, 429.10312pt x 225.84375pt>
+ <./juliankuhlberg.jpg>] <lenabauer.jpg, id=48, 429.10312pt x 225.84375pt>
 File: lenabauer.jpg Graphic file (type jpg)
 
 <use lenabauer.jpg>
-Package pdftex.def Info: lenabauer.jpg used on input line 222.
+Package pdftex.def Info: lenabauer.jpg used on input line 223.
 (pdftex.def)             Requested size: 142.26576pt x 113.81412pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--230
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--230
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 227--230
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 233--234
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 235--239
+Underfull \hbox (badness 10000) in paragraph at lines 236--240
 
  []
 
 [10
 
- <./lenabauer.jpg>] <wilhemkastner.jpg, id=53, 172.39406pt x 165.61874pt>
+ <./lenabauer.jpg>] <wilhemkastner.jpg, id=52, 172.39406pt x 165.61874pt>
 File: wilhemkastner.jpg Graphic file (type jpg)
 
 <use wilhemkastner.jpg>
-Package pdftex.def Info: wilhemkastner.jpg used on input line 245.
+Package pdftex.def Info: wilhemkastner.jpg used on input line 246.
 (pdftex.def)             Requested size: 142.26367pt x 113.80952pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
+Underfull \hbox (badness 10000) in paragraph at lines 251--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
+Underfull \hbox (badness 10000) in paragraph at lines 251--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 250--253
+Underfull \hbox (badness 10000) in paragraph at lines 251--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--257
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--260
+Underfull \hbox (badness 10000) in paragraph at lines 259--261
 
  []
 
 [11
 
- <./wilhemkastner.jpg>] <usecase.png, id=57, 370.38374pt x 328.97906pt>
+ <./wilhemkastner.jpg>] <usecase.png, id=56, 370.38374pt x 328.97906pt>
 File: usecase.png Graphic file (type png)
 
 <use usecase.png>
-Package pdftex.def Info: usecase.png used on input line 289.
+Package pdftex.def Info: usecase.png used on input line 290.
 (pdftex.def)             Requested size: 426.79703pt x 199.17099pt.
 
-Overfull \hbox (79.6735pt too wide) in paragraph at lines 289--290
+Overfull \hbox (79.6735pt too wide) in paragraph at lines 290--291
  [][] 
  []
 
 [12
 
- <./usecase.png>] <aufgabenanalyse.png, id=62, 940.26282pt x 553.31718pt>
+ <./usecase.png>] <aufgabenanalyse.png, id=61, 493.0922pt x 274.02374pt>
 File: aufgabenanalyse.png Graphic file (type png)
 
 <use aufgabenanalyse.png>
-Package pdftex.def Info: aufgabenanalyse.png used on input line 299.
-(pdftex.def)             Requested size: 369.88611pt x 284.52672pt.
+Package pdftex.def Info: aufgabenanalyse.png used on input line 300.
+(pdftex.def)             Requested size: 369.901pt x 284.55148pt.
 
-Overfull \hbox (22.76257pt too wide) in paragraph at lines 299--300
+Overfull \hbox (22.77747pt too wide) in paragraph at lines 300--301
  [][] 
  []
 
 [13
 
  <./aufgabenanalyse.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
 
  []
 
 
-Overfull \hbox (1.84929pt too wide) in paragraph at lines 314--315
+Overfull \hbox (1.84929pt too wide) in paragraph at lines 315--316
 \OT1/cmr/m/n/10 tausch von Daten vorstellen. Diese waren dann wiederum, natur
 lich anonymisiert,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--322
+Underfull \hbox (badness 10000) in paragraph at lines 318--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 325--328
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
 
  []
 
 [14
 
 ]
-Overfull \hbox (8.48807pt too wide) in paragraph at lines 344--345
+Overfull \hbox (8.48807pt too wide) in paragraph at lines 345--346
 \OT1/cmr/m/n/10 abzuschlieen, pen-delt er unermudlich zwis-chen Wien und sein
 em Zuhause, welches
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
 []\OT1/cmr/m/n/9 https://itunes.apple.com/us/app/moneyboard-personal-
  []
 
 
-Overfull \hbox (13.23589pt too wide) in paragraph at lines 357--358
+Overfull \hbox (13.23589pt too wide) in paragraph at lines 358--359
 []\OT1/cmr/m/n/9 http://www.tcm-gyni.ch/wp-content/uploads/2013/04/schwangercha
 ftsbeschwerden-
  []
@@ -999,22 +992,22 @@ ftsbeschwerden-
 [15] (M1GruppeFreitagTeam10.aux) ) 
 Here is how much of TeX's memory you used:
  3033 strings out of 493673
- 39982 string characters out of 3143140
+ 39952 string characters out of 3143140
  103681 words of memory out of 3000000
  6337 multiletter control sequences out of 15000+200000
  7125 words of font info for 26 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,24p,1392b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,24p,1198b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\peaceful\AppData\Local\MiKTeX\2.9\
 fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk><C:/miktex/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/m
 iktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/miktex/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/mi
-ktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/miktex/fonts/type1/public/amsf
-onts/cm/cmtt10.pfb><C:/miktex/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on M1GruppeFreitagTeam10.pdf (15 pages, 1028015 bytes).
+sfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/mikt
+ex/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/miktex/fonts/type1/urw/zapfdin
+g/uzdr.pfb>
+Output written on M1GruppeFreitagTeam10.pdf (15 pages, 993044 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
