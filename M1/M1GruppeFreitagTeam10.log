@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  5 APR 2016 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  15 APR 2016 20:43
 entering extended mode
-**D:/uni/Goki/HCI/m1/M1GruppeFreitagTeam10.tex
-(D:/uni/Goki/HCI/m1/M1GruppeFreitagTeam10.tex
+**D:/uni/Goki/HCI/git/trunk/M1/M1GruppeFreitagTeam10.tex
+(D:/uni/Goki/HCI/git/trunk/M1/M1GruppeFreitagTeam10.tex
 LaTeX2e <2015/01/01> patch level 2
 Babel <3.9m> and hyphenation patterns for 69 languages loaded.
 (llncs.cls
@@ -979,6 +979,12 @@ em Zuhause, welches
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 350--351
+[]\OT1/cmr/m/n/9 http://guides.wsj.com/personal-finance/managing-your-money/how
+-to-choose-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 354--355
 []\OT1/cmr/m/n/9 https://itunes.apple.com/us/app/moneyboard-personal-
  []
@@ -992,12 +998,12 @@ ftsbeschwerden-
 [15] (M1GruppeFreitagTeam10.aux) ) 
 Here is how much of TeX's memory you used:
  3033 strings out of 493673
- 39952 string characters out of 3143140
+ 39982 string characters out of 3143140
  103681 words of memory out of 3000000
  6337 multiletter control sequences out of 15000+200000
  7125 words of font info for 26 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,24p,1198b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 29i,7n,24p,1208b,274s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\peaceful\AppData\Local\MiKTeX\2.9\
 fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk><C:/miktex/fonts/type1/public/am
 sfonts/cm/cmbx10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/m
@@ -1005,7 +1011,7 @@ iktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/miktex/fonts/type1/public/am
 sfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/mikt
 ex/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/miktex/fonts/type1/urw/zapfdin
 g/uzdr.pfb>
-Output written on M1GruppeFreitagTeam10.pdf (15 pages, 993044 bytes).
+Output written on M1GruppeFreitagTeam10.pdf (15 pages, 993086 bytes).
 PDF statistics:
  99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
