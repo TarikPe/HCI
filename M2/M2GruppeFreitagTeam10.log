@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  9 APR 2016 23:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  17 APR 2016 01:16
 entering extended mode
 **D:/uni/Goki/HCI/m2/M2GruppeFreitagTeam10.tex
 (D:/uni/Goki/HCI/m2/M2GruppeFreitagTeam10.tex
@@ -646,249 +646,357 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 Names of authors too long for running head. Please supply
 a shorter form with \authorrunning prior to \maketitle
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+
+ []
+
 [1
 
 
 {C:/Users/peaceful/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (1.26591pt too wide) in paragraph at lines 52--56
+<mindmap.png, id=9, 384.0165pt x 527.8995pt>
+File: mindmap.png Graphic file (type png)
+ <use mindmap.png>
+Package pdftex.def Info: mindmap.png used on input line 55.
+(pdftex.def)             Requested size: 312.99118pt x 369.89766pt.
+ [2 <./mindmap.png>]
+Overfull \hbox (1.26591pt too wide) in paragraph at lines 64--68
 \OT1/cmr/m/n/10 so-fort die Haupt-funk-tion ver-wen-den. Unser er-ster Pro-to-t
 yp lis-tet die entsprechen-
  []
 
-<Expense-1.png, id=10, 283.0575pt x 575.14874pt>
+<Expense-1.png, id=13, 283.0575pt x 575.14874pt>
 File: Expense-1.png Graphic file (type png)
  <use Expense-1.png>
-Package pdftex.def Info: Expense-1.png used on input line 59.
+Package pdftex.def Info: Expense-1.png used on input line 71.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/9 (a) Aus-gabe
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[]\OT1/cmr/m/n/9 (b) Aus-gabe
  []
 
-<SidePanel-1.png, id=12, 283.0575pt x 575.14874pt>
+<SidePanel-1.png, id=15, 283.0575pt x 575.14874pt>
 File: SidePanel-1.png Graphic file (type png)
  <use SidePanel-1.png>
-Package pdftex.def Info: SidePanel-1.png used on input line 61.
+Package pdftex.def Info: SidePanel-1.png used on input line 73.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-<Income-1.png, id=13, 283.0575pt x 575.14874pt>
+<Income-1.png, id=16, 283.0575pt x 575.14874pt>
 File: Income-1.png Graphic file (type png)
  <use Income-1.png>
-Package pdftex.def Info: Income-1.png used on input line 63.
+Package pdftex.def Info: Income-1.png used on input line 75.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]\OT1/cmr/m/n/9 (c) Enkom-men
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+[]\OT1/cmr/m/n/9 (d) Enkom-men
  []
 
-<Report-1.png, id=14, 283.0575pt x 575.14874pt>
+<Report-1.png, id=17, 283.0575pt x 575.14874pt>
 File: Report-1.png Graphic file (type png)
  <use Report-1.png>
-Package pdftex.def Info: Report-1.png used on input line 65.
+Package pdftex.def Info: Report-1.png used on input line 77.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--65
-[]\OT1/cmr/m/n/9 (d) Bericht
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]\OT1/cmr/m/n/9 (e) Bericht
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
 
-[2
+[3
 
  <./Expense-1.png> <./SidePanel-1.png> <./Income-1.png> <./Report-1.png>]
-<Profile-1.png, id=22, 283.0575pt x 575.14874pt>
+<Profile-1.png, id=26, 283.0575pt x 575.14874pt>
 File: Profile-1.png Graphic file (type png)
  <use Profile-1.png>
-Package pdftex.def Info: Profile-1.png used on input line 76.
+Package pdftex.def Info: Profile-1.png used on input line 88.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-<NewProfile-1.png, id=23, 283.0575pt x 575.14874pt>
+<NewProfile-1.png, id=27, 283.0575pt x 575.14874pt>
 File: NewProfile-1.png Graphic file (type png)
  <use NewProfile-1.png>
-Package pdftex.def Info: NewProfile-1.png used on input line 78.
+Package pdftex.def Info: NewProfile-1.png used on input line 90.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-<ChangeProfile-1.png, id=24, 283.0575pt x 575.14874pt>
+Underfull \hbox (badness 2846) in paragraph at lines 90--90
+[]\OT1/cmr/m/n/9 (g) Cre-ate Pro-
+ []
+
+<ChangeProfile-1.png, id=28, 283.0575pt x 575.14874pt>
 File: ChangeProfile-1.png Graphic file (type png)
 
 <use ChangeProfile-1.png>
-Package pdftex.def Info: ChangeProfile-1.png used on input line 80.
+Package pdftex.def Info: ChangeProfile-1.png used on input line 92.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-<SavingTarget-1.png, id=25, 283.0575pt x 575.14874pt>
+<SavingTarget-1.png, id=29, 283.0575pt x 575.14874pt>
 File: SavingTarget-1.png Graphic file (type png)
  <use SavingTarget-1.png>
-Package pdftex.def Info: SavingTarget-1.png used on input line 82.
+Package pdftex.def Info: SavingTarget-1.png used on input line 94.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--82
-[]\OT1/cmr/m/n/9 (h) Save-tar-get
- []
-
-<Advisor-1.png, id=26, 283.0575pt x 575.14874pt>
+<Advisor-1.png, id=30, 283.0575pt x 575.14874pt>
 File: Advisor-1.png Graphic file (type png)
  <use Advisor-1.png>
-Package pdftex.def Info: Advisor-1.png used on input line 84.
+Package pdftex.def Info: Advisor-1.png used on input line 96.
 (pdftex.def)             Requested size: 69.42365pt x 141.05748pt.
- [3 <./Profile-1.png> <./NewProfile-1.png> <./ChangeProfile-1.png> <./SavingTar
-get-1.png> <./Advisor-1.png>] <Expense-2.png, id=35, 283.0575pt x 575.14874pt>
+ [4 <./Profile-1.png> <./NewProfile-1.png> <./ChangeProfile-1.png> <./SavingTar
+get-1.png> <./Advisor-1.png>] <Expense-2.png, id=39, 283.0575pt x 575.14874pt>
 File: Expense-2.png Graphic file (type png)
 
 <use Expense-2.png>
-Package pdftex.def Info: Expense-2.png used on input line 94.
+Package pdftex.def Info: Expense-2.png used on input line 106.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]\OT1/cmr/m/n/9 (j) Aus-gabe
+Underfull \hbox (badness 3128) in paragraph at lines 106--106
+[]\OT1/cmr/m/n/9 (k) Aus-gabe
  []
 
-<SavingTarget-2.png, id=36, 283.0575pt x 575.14874pt>
+<SavingTarget-2.png, id=40, 283.0575pt x 575.14874pt>
 File: SavingTarget-2.png Graphic file (type png)
  <use SavingTarget-2.png>
-Package pdftex.def Info: SavingTarget-2.png used on input line 96.
+Package pdftex.def Info: SavingTarget-2.png used on input line 108.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
 
-<MoneyIncreases-2.png, id=37, 283.0575pt x 575.14874pt>
+<MoneyIncreases-2.png, id=41, 283.0575pt x 575.14874pt>
 File: MoneyIncreases-2.png Graphic file (type png)
 
 <use MoneyIncreases-2.png>
-Package pdftex.def Info: MoneyIncreases-2.png used on input line 98.
+Package pdftex.def Info: MoneyIncreases-2.png used on input line 110.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[]\OT1/cmr/m/n/9 (l) Enkom-
+Underfull \hbox (badness 3965) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/9 (m) Enkom-
  []
 
-<CreateProfile-2.png, id=38, 283.0575pt x 575.14874pt>
+<CreateProfile-2.png, id=42, 283.0575pt x 575.14874pt>
 File: CreateProfile-2.png Graphic file (type png)
 
 <use CreateProfile-2.png>
-Package pdftex.def Info: CreateProfile-2.png used on input line 100.
+Package pdftex.def Info: CreateProfile-2.png used on input line 112.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--100
-[]\OT1/cmr/m/n/9 (m) Se-lect
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]\OT1/cmr/m/n/9 (n) Se-lect
  []
 
-<ChangeProfile-2.png, id=39, 283.0575pt x 575.14874pt>
+<ChangeProfile-2.png, id=43, 283.0575pt x 575.14874pt>
 File: ChangeProfile-2.png Graphic file (type png)
 
 <use ChangeProfile-2.png>
-Package pdftex.def Info: ChangeProfile-2.png used on input line 102.
+Package pdftex.def Info: ChangeProfile-2.png used on input line 114.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-[]\OT1/cmr/m/n/9 (n) Cre-ate
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]\OT1/cmr/m/n/9 (o) Cre-ate
  []
 
-<SelectProfile-2.png, id=40, 283.0575pt x 575.14874pt>
+<SelectProfile-2.png, id=44, 283.0575pt x 575.14874pt>
 File: SelectProfile-2.png Graphic file (type png)
 
 <use SelectProfile-2.png>
-Package pdftex.def Info: SelectProfile-2.png used on input line 104.
+Package pdftex.def Info: SelectProfile-2.png used on input line 116.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]\OT1/cmr/m/n/9 (o) Change
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]\OT1/cmr/m/n/9 (p) Change
  []
 
-<Report-2.png, id=41, 283.0575pt x 575.14874pt>
+<Report-2.png, id=45, 283.0575pt x 575.14874pt>
 File: Report-2.png Graphic file (type png)
  <use Report-2.png>
-Package pdftex.def Info: Report-2.png used on input line 106.
+Package pdftex.def Info: Report-2.png used on input line 118.
 (pdftex.def)             Requested size: 52.0664pt x 105.78653pt.
- [4
+ [5
 
  <./Expense-2.png> <./SavingTarget-2.png> <./MoneyIncreases-2.png> <./CreatePro
 file-2.png> <./ChangeProfile-2.png> <./SelectProfile-2.png> <./Report-2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
 
  []
 
-<Expense-3.png, id=52, 281.05pt x 575.14874pt>
+<Expense-3.png, id=56, 281.05pt x 575.14874pt>
 File: Expense-3.png Graphic file (type png)
  <use Expense-3.png>
-Package pdftex.def Info: Expense-3.png used on input line 119.
+Package pdftex.def Info: Expense-3.png used on input line 131.
 (pdftex.def)             Requested size: 52.0664pt x 106.55003pt.
 
-Underfull \hbox (badness 3128) in paragraph at lines 119--119
-[]\OT1/cmr/m/n/9 (q) Aus-gabe
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+[]\OT1/cmr/m/n/9 (r) Aus-gabe
  []
 
-<SaveTarget-3.png, id=53, 281.05pt x 575.14874pt>
+<SaveTarget-3.png, id=57, 281.05pt x 575.14874pt>
 File: SaveTarget-3.png Graphic file (type png)
  <use SaveTarget-3.png>
-Package pdftex.def Info: SaveTarget-3.png used on input line 121.
+Package pdftex.def Info: SaveTarget-3.png used on input line 133.
 (pdftex.def)             Requested size: 52.0664pt x 106.55003pt.
 
-<Income-3.png, id=54, 281.05pt x 575.14874pt>
+<Income-3.png, id=58, 281.05pt x 575.14874pt>
 File: Income-3.png Graphic file (type png)
  <use Income-3.png>
-Package pdftex.def Info: Income-3.png used on input line 123.
+Package pdftex.def Info: Income-3.png used on input line 135.
 (pdftex.def)             Requested size: 52.0664pt x 106.55003pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[]\OT1/cmr/m/n/9 (s) Enkom-
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
+[]\OT1/cmr/m/n/9 (t) Enkom-
  []
 
-<SelectProfile-3.png, id=55, 281.05pt x 575.14874pt>
+<SelectProfile-3.png, id=59, 281.05pt x 575.14874pt>
 File: SelectProfile-3.png Graphic file (type png)
  <use SelectProfile-3.png>
-Package pdftex.def Info: SelectProfile-3.png used on input line 125.
+Package pdftex.def Info: SelectProfile-3.png used on input line 137.
 (pdftex.def)             Requested size: 52.0664pt x 106.55003pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
-[]\OT1/cmr/m/n/9 (t) Change
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]\OT1/cmr/m/n/9 (u) Change
  []
 
-<Report-3.png, id=56, 281.05pt x 575.14874pt>
+<Report-3.png, id=60, 281.05pt x 575.14874pt>
 File: Report-3.png Graphic file (type png)
  <use Report-3.png>
-Package pdftex.def Info: Report-3.png used on input line 127.
+Package pdftex.def Info: Report-3.png used on input line 139.
 (pdftex.def)             Requested size: 52.0664pt x 106.55003pt.
 
-<CreateProfile-3.png, id=57, 281.05pt x 575.14874pt>
+<CreateProfile-3.png, id=61, 281.05pt x 575.14874pt>
 File: CreateProfile-3.png Graphic file (type png)
  <use CreateProfile-3.png>
-Package pdftex.def Info: CreateProfile-3.png used on input line 129.
+Package pdftex.def Info: CreateProfile-3.png used on input line 141.
 (pdftex.def)             Requested size: 52.0664pt x 106.55003pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--129
-[]\OT1/cmr/m/n/9 (v) Se-lect
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]\OT1/cmr/m/n/9 (w) Se-lect
  []
 
-[5
+[6
 
  <./Expense-3.png> <./SaveTarget-3.png> <./Income-3.png> <./SelectProfile-3.png
-> <./Report-3.png> <./CreateProfile-3.png>] [6
+> <./Report-3.png> <./CreateProfile-3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 151--155
 
-] [7
+ []
 
-]
-(M2GruppeFreitagTeam10.aux) ) 
+<flussdiagramInterview.png, id=71, 597.73312pt x 436.63126pt>
+File: flussdiagramInterview.png Graphic file (type png)
+
+<use flussdiagramInterview.png>
+Package pdftex.def Info: flussdiagramInterview.png used on input line 158.
+(pdftex.def)             Requested size: 199.16788pt x 199.1672pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+[7
+
+ <./flussdiagramInterview.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Overfull \hbox (1.4048pt too wide) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/10 Welche Funk-tion ist fur Sie aus einer Haushaltsbuch-Applika
+tion nicht wegzu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Overfull \hbox (26.0437pt too wide) in paragraph at lines 182--183
+\OT1/cmr/m/n/10 durch die uberfullten Menus die schnelle Ein-tra-gung der Da
+ten et-was unubersichtlicher. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+[8
+
+] (M2GruppeFreitagTeam10.aux) ) 
 Here is how much of TeX's memory you used:
- 3136 strings out of 493673
- 41595 string characters out of 3143140
- 104847 words of memory out of 3000000
- 6427 multiletter control sequences out of 15000+200000
+ 3150 strings out of 493673
+ 41865 string characters out of 3143140
+ 104844 words of memory out of 3000000
+ 6439 multiletter control sequences out of 15000+200000
  6482 words of font info for 24 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,24p,1265b,267s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/miktex/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/miktex/fonts/type1/
-public/amsfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb
-><C:/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on M2GruppeFreitagTeam10.pdf (7 pages, 624524 bytes).
+ 29i,7n,24p,1265b,272s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/miktex/fonts/type1/public/amsfonts/cm/cmbx10
+.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/miktex/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.p
+fb><C:/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on M2GruppeFreitagTeam10.pdf (8 pages, 1219184 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
