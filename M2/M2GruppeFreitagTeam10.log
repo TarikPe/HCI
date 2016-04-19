@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  17 APR 2016 01:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  19 APR 2016 23:43
 entering extended mode
 **D:/uni/Goki/HCI/m2/M2GruppeFreitagTeam10.tex
 (D:/uni/Goki/HCI/m2/M2GruppeFreitagTeam10.tex
@@ -690,12 +690,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--52
 
 
 {C:/Users/peaceful/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<mindmap.png, id=9, 384.0165pt x 527.8995pt>
-File: mindmap.png Graphic file (type png)
- <use mindmap.png>
-Package pdftex.def Info: mindmap.png used on input line 55.
-(pdftex.def)             Requested size: 312.99118pt x 369.89766pt.
- [2 <./mindmap.png>]
+<mindmap.jpg, id=9, 700.6175pt x 963.6pt>
+File: mindmap.jpg Graphic file (type jpg)
+ <use mindmap.jpg>
+Package pdftex.def Info: mindmap.jpg used on input line 55.
+(pdftex.def)             Requested size: 312.98718pt x 369.87704pt.
+ [2 <./mindmap.jpg>]
 Overfull \hbox (1.26591pt too wide) in paragraph at lines 64--68
 \OT1/cmr/m/n/10 so-fort die Haupt-funk-tion ver-wen-den. Unser er-ster Pro-to-t
 yp lis-tet die entsprechen-
@@ -983,8 +983,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 182--183
 
 ] (M2GruppeFreitagTeam10.aux) ) 
 Here is how much of TeX's memory you used:
- 3150 strings out of 493673
- 41865 string characters out of 3143140
+ 3151 strings out of 493673
+ 41869 string characters out of 3143140
  104844 words of memory out of 3000000
  6439 multiletter control sequences out of 15000+200000
  6482 words of font info for 24 fonts, out of 3000000 for 9000
@@ -994,7 +994,7 @@ Here is how much of TeX's memory you used:
 .pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/miktex/fonts/type
 1/public/amsfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.p
 fb><C:/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on M2GruppeFreitagTeam10.pdf (8 pages, 1219184 bytes).
+Output written on M2GruppeFreitagTeam10.pdf (8 pages, 656415 bytes).
 PDF statistics:
  97 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
