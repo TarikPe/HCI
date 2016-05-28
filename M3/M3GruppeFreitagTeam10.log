@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  16 MAY 2016 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.10.30)  28 MAY 2016 13:36
 entering extended mode
 **D:/uni/Goki/HCI/m3/M3GruppeFreitagTeam10.tex
 (D:/uni/Goki/HCI/m3/M3GruppeFreitagTeam10.tex
@@ -883,23 +883,23 @@ Overfull \hbox (19.38309pt too wide) in paragraph at lines 85--85
  []
 
 
-Overfull \hbox (2.09924pt too wide) in paragraph at lines 95--96
+Overfull \hbox (2.09924pt too wide) in paragraph at lines 93--94
 \OT1/cmr/m/n/10 Wir haben ver-sucht die gle-ichen Da-ten-typen bzw Eingabefelde
 r, wie zum Beispiel;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
@@ -911,38 +911,158 @@ eenBlind.png> <./ReportPieChartA2monochrom.png> <./ReportPieChartA2redBlind.png
 tGreenBlind.png> <./tableChartRedBlind.png>]
 File: expense.png Graphic file (type png)
  <use expense.png>
-Package pdftex.def Info: expense.png used on input line 100.
+Package pdftex.def Info: expense.png used on input line 98.
 (pdftex.def)             Requested size: 52.0664pt x 91.88216pt.
 
 <income.png, id=27, 243.91125pt x 425.33907pt>
 File: income.png Graphic file (type png)
  <use income.png>
-Package pdftex.def Info: income.png used on input line 102.
+Package pdftex.def Info: income.png used on input line 100.
 (pdftex.def)             Requested size: 52.0664pt x 90.7906pt.
 
 <Report.png, id=28, 242.40562pt x 428.35031pt>
 File: Report.png Graphic file (type png)
  <use Report.png>
-Package pdftex.def Info: Report.png used on input line 104.
+Package pdftex.def Info: Report.png used on input line 102.
 (pdftex.def)             Requested size: 52.0664pt x 92.00201pt.
- [3 <./income.png> <./Report.png>] [4
 
-] (M3GruppeFreitagTeam10.aux) ) 
+Overfull \hbox (3.57158pt too wide) in paragraph at lines 108--110
+\OT1/cmr/m/n/10 Eine Ausstat-tung un-serer Fi-nan-zap-p-lika-tion mit einem Sid
+e Panel wurde wahrend
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+[3 <./income.png> <./Report.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Overfull \hbox (0.34932pt too wide) in paragraph at lines 132--133
+[]\OT1/cmr/m/n/10 Anschlieend wahlt man das Aus-gaben-da-tum durch Se-lek-tio
+n aus dem Kalen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Overfull \hbox (1.23819pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/n/10 Eine weit-ere Funk-tion ist der Bericht-funk-tion. Wie auch in 
+der Ab-bil-dung gezeigt,
+ []
+
+
+Overfull \hbox (26.71043pt too wide) in paragraph at lines 137--138
+\OT1/cmr/m/n/10 hat man die Moglichkeit Aus-gaben durch Auswahl eines gewunsc
+hten Di-a-gramms/einer
+ []
+
+
+Overfull \hbox (3.76604pt too wide) in paragraph at lines 142--143
+\OT1/cmr/m/n/10 Eingabe von Einkom-men wurde genau so wie die Eingabe von Aus-g
+aben moglichst
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+
+Overfull \hbox (5.30771pt too wide) in paragraph at lines 142--143
+\OT1/cmr/m/n/10 Liste der Einkom-men-styp moglich. Einkom-men wurde als Gehalt
+/Lohn, Forderun-
+ []
+
+[4] <sidepanel.png, id=35, 402.50375pt x 756.8275pt>
+File: sidepanel.png Graphic file (type png)
+ <use sidepanel.png>
+Package pdftex.def Info: sidepanel.png used on input line 147.
+(pdftex.def)             Requested size: 52.0664pt x 97.89445pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\OT1/cmr/m/n/9 (r) Side
+ []
+
+<expense1.png, id=36, 236.082pt x 453.49425pt>
+File: expense1.png Graphic file (type png)
+ <use expense1.png>
+Package pdftex.def Info: expense1.png used on input line 149.
+(pdftex.def)             Requested size: 52.0664pt x 100.01123pt.
+
+<reports.png, id=37, 240.29774pt x 455.301pt>
+File: reports.png Graphic file (type png)
+ <use reports.png>
+Package pdftex.def Info: reports.png used on input line 151.
+(pdftex.def)             Requested size: 52.0664pt x 98.65201pt.
+
+<income1.png, id=38, 236.68425pt x 451.6875pt>
+File: income1.png Graphic file (type png)
+ <use income1.png>
+Package pdftex.def Info: income1.png used on input line 153.
+(pdftex.def)             Requested size: 52.0664pt x 99.35776pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+
+Overfull \hbox (2.22418pt too wide) in paragraph at lines 159--160
+\OT1/cmr/m/n/10 Fur den Re-ports Bere-ich haben wir uns, nach einiger Recherch
+e, fur GoogleCharts
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
+
+ []
+
+[5
+
+ <./sidepanel.png> <./expense1.png> <./reports.png> <./income1.png>]
+(M3GruppeFreitagTeam10.aux) ) 
 Here is how much of TeX's memory you used:
- 3107 strings out of 493673
- 41384 string characters out of 3143140
+ 3133 strings out of 493673
+ 41768 string characters out of 3143140
  103847 words of memory out of 3000000
- 6404 multiletter control sequences out of 15000+200000
+ 6426 multiletter control sequences out of 15000+200000
  6482 words of font info for 24 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 29i,7n,24p,940b,267s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/miktex/fonts/type1/public/amsfonts/cm/cmbx10
-.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/miktex/fonts/type
-1/public/amsfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.p
-fb><C:/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on M3GruppeFreitagTeam10.pdf (4 pages, 383112 bytes).
+ 29i,7n,24p,1212b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/miktex/fonts/type1/public/amsfonts/cm/cmbx10.p
+fb><C:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/miktex/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/miktex/fonts/type1/public/amsfonts/cm/cmr9.pfb
+><C:/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on M3GruppeFreitagTeam10.pdf (5 pages, 469962 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
